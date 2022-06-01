@@ -1,12 +1,12 @@
 nav,
 .nav {
     color: white;
-    background: linear-gradient(aqua, black);
+    background: linear-gradient(salmon, black);
 }
 
 main,
 .main {
-    background: linear-gradient(aqua, rgb(211, 25, 25));
+    background: linear-gradient(salmon, rgb(211, 25, 25));
 }
 
 .banner {
@@ -26,7 +26,7 @@ main,
 
 footer,
 .footer {
-    background: linear-gradient(to top, aqua, black);
+    background: linear-gradient(to top, salmon, aqua);
     color: white;
 }
 
